@@ -21,7 +21,7 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 | Instalasi Node                            |   V    |12.18.3            |
 | Instalasi JDK                             |   V    |   -               |
 | Android Studio                            |   V    | 4.1.1             |
-| SDK                                       |   V    |  9.0              |
+| SDK                                       |   V    | 9.0               |
 | ANDROID_HOME & Add platform-tools to Path |   V    | -                 |
 | Android Emulator (opt)                    |   V    | pixel 4 API 30    |
 | Create Project RN using npx               |   V    | -                 |
