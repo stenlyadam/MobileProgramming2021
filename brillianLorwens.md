@@ -16,16 +16,16 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 ## Status Instalasi
 
-| Langkah-langkah                           | Status | Versi |
-| ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |        |       |
-| Instalasi JDK                             |        |       |
-| Android Studio                            |        |       |
-| SDK                                       |        |       |
-| ANDROID_HOME & Add platform-tools to Path |        | -     |
-| Android Emulator (opt)                    |        | -     |
-| Create Project RN using npx               |        | -     |
-| Run Project on Emulator / Device          |        | -     |
+| Langkah-langkah                           | Status | Versi                         |
+| ----------------------------------------- | ------ | ----------------------------- |
+| Instalasi Node                            | DONE   | v14.15.4                      |
+| Instalasi JDK                             | DONE   | openjdk 11.0.10 2021-01-19 LTS|
+| Android Studio                            | DONE   | 4.1.2                         |
+| SDK                                       | DONE   | 30,29                         |
+| ANDROID_HOME & Add platform-tools to Path | DONE   |               -               |
+| Android Emulator (opt)                    | DONE   | Pixel 2 XL API 29             |
+| Create Project RN using npx               | DONE   |               -               |
+| Run Project on Emulator / Device          | DONE   |               -               |
 
 Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
