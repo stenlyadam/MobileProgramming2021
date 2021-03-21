@@ -15,6 +15,6 @@
 | Android Studio                            | DONE   | 4.0                 |
 | SDK                                       | DONE   | 30                  |
 | ANDROID_HOME & Add platform-tools to Path | DONE   | -                   |
-| Android Emulator (opt)                    | DONE   | -                   |
+| Android Emulator (opt)                    | DONE   | Pixel 2 XL API 29   |
 | Create Project RN using npx               | DONE   | -                   |
 | Run Project on Emulator / Device          | DONE   | -                   |
