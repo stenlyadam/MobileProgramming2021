@@ -18,14 +18,14 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 | Langkah-langkah                           | Status | Versi |
 | ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |        |       |
-| Instalasi JDK                             |        |       |
-| Android Studio                            |        |       |
-| SDK                                       |        |       |
-| ANDROID_HOME & Add platform-tools to Path |        | -     |
+| Instalasi Node                            | Done       |  v12.18.3     |
+| Instalasi JDK                             | Done       |   1.8.0_242-release    |
+| Android Studio                            | Done       |  4.1.2     |
+| SDK                                       | Done       |  29     |
+| ANDROID_HOME & Add platform-tools to Path | Done       | -     |
 | Android Emulator (opt)                    |        | -     |
-| Create Project RN using npx               |        | -     |
-| Run Project on Emulator / Device          |        | -     |
+| Create Project RN using npx               |  Done      | -     |
+| Run Project on Emulator / Device          | Done       | -     |
 
 Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
