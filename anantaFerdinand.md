@@ -19,7 +19,7 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 | Langkah-langkah                           | Status | Versi                      |
 | ----------------------------------------- | ------ | -------------------------  |
-| Instalasi Node                            |  Done  |14.15.0                     |
+| Instalasi Node                            |  Done  |14.16.0                     |
 | Instalasi JDK                             |  Done  |[openjdk 11.0.10 2021-01-19]|
 | Android Studio                            |  Done  | 4.1.3                      |
 | SDK                                       |  Done  | 29                         |
